@@ -6,4 +6,4 @@ In 2020, one of the most significant challenges facing the nation is to hold a d
 
 Our elections research, concepts, opinions, and ideas can be found in this repository. 
 
-Our published policy work can be found at https://lincolnpolicy.org/
+Our published policy work can be found at [https://lincolnpolicy.org/](https://lincolnpolicy.org/)
