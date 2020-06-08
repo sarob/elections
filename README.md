@@ -5,5 +5,6 @@ The Lincoln Network’s mission is to connect Silicon Valley and other technolog
 In 2020, one of the most significant challenges facing the nation is to hold a democratic election during a pandemic, at a time of heightened international competition including growing cybersecurity threats.
 
 Our elections research, concepts, opinions, and ideas can be found in this [repository](/documents). 
+The html version of this page can be found [here](https://lincolnnetwork.github.io/elections/).
 
 Our published policy work can be found at [https://lincolnpolicy.org/](https://lincolnpolicy.org/)
