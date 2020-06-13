@@ -27,30 +27,14 @@ You have 13 H1 headings. You may want to use the "H1 -> H2" option to demote all
 
 ----->
 
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 1.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # White Paper: Vote by Mail
 
 **_Absentee Voting Solutions for 2020 and Beyond_**
 
-
-
 *   Sean Roberts, Chief Technologist at Lincoln Network
 *   Alexiaa Jordan, Policy Analyst for Innovation, Cyber, and National Security Policy at Lincoln Network
 
-
-
 ---
-
-
 
 # Foreword 
 
