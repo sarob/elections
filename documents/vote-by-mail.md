@@ -1,70 +1,16 @@
-<!-- Copy and paste the converted output. -->
-
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 6.719 seconds.
+<h1>Secure and Accessible Elections: Absentee Voting Solutions for 2020 and Beyond</h1>
 
 
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β28
-* Sun Jun 28 2020 16:29:44 GMT-0700 (PDT)
-* Source doc: v0.34 Lincoln Network Working Paper -- Secure and Accessible Elections
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
-
-WARNING:
-You have 11 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 3.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-# 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
-# Secure and Accessible Elections: Absentee Voting Solutions for 2020 and Beyond
-
-
-## LINCOLN WORKING PAPER
+<p>LINCOLN WORKING PAPER
 
 Sean Roberts and Alexiaa Jordan
 
+<h1>Executive Summary</h1>
 
-# Table of Contents
-
-[TOC]
-
-# Executive Summary
 
 This report provides a technical and policy analysis of absentee voting and vote by mail. Its purpose is to inform the current national debate with an accurate understanding of how vote by mail works and a fair analysis of the benefits and risks of voting by mail. 
 
-The paper includes three sections after this one. The first section presents a technical and policy overview of absentee voting. We discuss historical and recent trends in absentee voting and describe the current national landscape of absentee voting policy, including the expected widespread use of voting-by-mail in November. Next we describe the process of absentee voter registration to ballots being counted. The second section discusses the benefits of and concerns about expanded absentee voting, based on a review of the literature and available evidence. Third, we present technical and policy recommendations to expand absentee voting and protect voting integrity.
+The paper includes three sections after this one. The first section presents a technical and policy overview of absentee voting. We discuss historical and recent trends in absentee voting and describe the current national landscape of absentee voting policy, including the expected widespread use of voting-by-mail in November. Next we describe the process of absentee voter registration to ballots being counted. The second section discusses the benefits of and concerns about expanded absentee voting, based on a review of the literature and available evidence. Third, we present technical and policy recommendations to expand absentee voting and protect voting integrity. \
 
 
 Widespread absentee balloting provides important benefits, including voter convenience, increasing participation, yielding government savings, and protecting individual and public health during the pandemic. But absentee voting also comes with risks, including potential administrative and voter problems, increased potential for fraud and ballot harvesting, and creating inequality for individuals with disabilities. Since widespread voting by mail is expected in November because of both general trends in election administration and responses to the COVID environment, policymakers should take prudent precautions to address these problems. 
@@ -73,13 +19,13 @@ This white paper proposes several solutions to improve the integrity of the voti
 
 The decentralized election system of the United States includes and affects more than 3,100 counties, 116,000 polling places, 900,000 polling workers, and 150 million registered voters.[^1] Modifying these complex systems during a global pandemic and national election will require a fact-based discussion about pros and cons and a collaborative approach. This technical and policy analysis is intended to inform this important discussion. 
 
+<h1>Issue Background on Absentee Voting </h1>
 
-# Issue Background on Absentee Voting 
 
 This section provides an overview of the current issue landscape, and presents a technical analysis of each step of the absentee voting process with a detailed examination of strengths, weaknesses and recommendations for improving election integrity. 
 
+<h2>Current Landscape</h2>
 
-## Current Landscape
 
 Defending American elections from cyber attacks, foreign interference, and other threats has been a bipartisan, national priority since at least 2016. Federal policymakers, led by the Department of Homeland Security and Election Assistance Commission, have promoted an intergovernmental effort to improve the security and resiliency of state and local election systems. Congress and the Trump Administration have authorized and provided more than $1.2 billion in new funding to states to modernize and secure election infrastructure. 
 
@@ -97,11 +43,11 @@ As the COVID-19 pandemic continues through November, public health concerns may 
 
 As the United States prepares for the November 2020 election, many states are exploring options for expanding vote by mail and early voting to accommodate voters during the pandemic. One option is for the states to allow early voting, which gives voters the choice to cast their ballot in person at a polling station ahead of election day. In this paper we explore the complementary option of expanding vote by mail and absentee balloting.
 
+<h2>Technical and Policy Overview </h2>
 
-## Technical and Policy Overview 
 
+<h3>What is Absentee Voting and Voting by Mail?</h3>
 
-### What is Absentee Voting and Voting by Mail?
 
 Many people are using the terms Absentee Voting and Voting by Mail interchangeably. While they are related, each term means something different. 
 
@@ -111,8 +57,8 @@ Voting by mail is the act of casting a ballot through the mail, rather than by v
 
 For this discussion, we will define absentee voting as the act of not voting in person. And vote by mail as using the US Post Office to return an absentee ballot. Some locations use these terms interchangeably or define all not in-person voting as vote by mail due to their specific implementation. 
 
+<h3>Background on Absentee Voting </h3>
 
-### Background on Absentee Voting 
 
 In the past, absentee voting was used primarily for US citizens traveling overseas and in the active military. The term absentee means literally being absent from your local jurisdiction. Historically, the first use of voting in absentia was for military voters during the Civil War[^10] Throughout the 20th century, most Americans voted in-person at a local polling station,[^11] which afforded the benefit of maintaining a secret ballot and hindered vote-buying, coercion, and other problems which became common in the late 1800s.[^12] 
 
@@ -165,22 +111,17 @@ The Open Source Election Technology Institute recently reviewed the status of ab
 
 _Source: OSET Institute, May 27, 2020_[^18]
 
+<h3>A Step-by-Step Technical Analysis of the Absentee Voting System </h3>
 
-### A Step-by-Step Technical Analysis of the Absentee Voting System 
 
 What follows is a synopsis of how the functions of absentee voting works. While the terms and implementations will vary, this will describe the working parts of absentee voting. \
 
 
 **Figure 1: Vote by mail infographic**
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![absentee-voting-joey-livingston image](../images/absentee-voting-joey-livingston.png "iabsentee-voting-joey-livingston image")
 
-
-![alt_text](images/image2.jpg "image_tooltip")
-
-
-
-### Voters Register Their Request to Vote Absentee
+<h3>Voters Register Their Request to Vote Absentee</h3>
 
 33 states and Washington D.C. allow no-excuse (no reason required) absentee voter registration.[^19] Five states (Washington, Oregon, Colorado, Hawaii, Utah) have become permanent vote by mail states. Permanent vote by mail states send absentee ballots to every resident of their state without requiring new yearly absentee ballot requests. Each state allows citizens to use a state ID to register online, at the Department of Motor Vehicles, or in person. California is temporarily a vote by mail state for the 2020 election[^20] and allows citizens to use a proof of residency, state ID, or a social security number for voter registration.[^21] 
 
@@ -192,15 +133,15 @@ In some states, a potential voter can show up on the day of the election and req
 
 As a rule, provisional ballots, also called an “affidavit ballot”, are used when a voter’s eligibility is yet to be confirmed. There are additional situations where a ballot is spoiled and then a provisional ballot is used in its place. In some cases, the provisional ballot is treated like an absentee ballot with a signed envelope. The provisional ballots are kept separate from the rest of the ballots. Generally, local election officials manually review and confirm the legitimacy of the voter within days after the Election Day to determine if their provisional ballot is to be counted. There is a notable exception in Idaho, Minnesota, and New Hampshire where they provide same day registration and do not provide provisional ballots.[^24][ ](https://www.ncsl.org/research/elections-and-campaigns/provisional-ballots.aspx)
 
+<h3>The Elections Office Maintains the Absentee Voter Rolls</h3>
 
-### The Elections Office Maintains the Absentee Voter Rolls
 
 Once the absentee registration has been received by the elections official, the identity of the voter needs to be matched with a trusted source such as the state voter registration database. As part of the process of verifying the voter’s identity, the submitted registration signature must be matched. This is often completed manually with some training to match signatures. Additionally, 30 states utilize the nonprofit Electronic Registration Information Center (ERIC) database which combines member states voter data.[^25] ERIC provides data on voters that moved, died, eligible but not registered, and in-state duplicates. to ensure more accurate voter rolls.
 
 Once registered to vote absentee, it is not permanent in a majority of states. 16 states provide a permanent or semi-permanent absentee registration.[^26] Even with the states that have permanent absentee registration, the voter roll can be culled for reasons such as the absentee ballot being returned non-deliverable or the voter’s status changed to inactive or challenged. 7 states allow for permanent absentee voters to be removed. [^27] Reasons vary from in California missing four consecutive statewide elections to in the District of Columbia having any mail from the election office as undeliverable. 
 
+<h3>The Election Office Prints and Mails the Absentee Ballots</h3>
 
-### The Election Office Prints and Mails the Absentee Ballots
 
 The absentee ballot consists of a standard layout that generally remains the same year over year and the contest options. The Ballot Layout is the template structure and requirements for every ballot election to election. This includes a computer readable code encoding the ballot type and version, so the ballot scanners can correctly identify the area to scan for the contest options area. There is also the envelope layout which is the digital description of how the ballot envelope text and markings are designed for the printer. Most importantly the envelope layout sets aside the signature space. Once updated for the current election contest, the digital files are transmitted to a commercial industrial printer.
 
@@ -212,8 +153,7 @@ However, some states do not require the full range of services from their printe
 
 The timing of the ballot printing needs to be accurate in order to get to the voter within a time window. The timing of the delivery to the absentee voter varies from 15 to 60 days before the election depending on the state.[^29] Additionally, it can take many weeks to print the ballots and envelopes. If there are errors that require reprinting, it could be weeks or months before the second batch of ballots and envelopes are available. If there are any problems with the arrival of the absentee ballot before the voting period, then the voter must contact their local county elections office for a replacement absentee ballot. 
 
-
-### The Voter Fills Out the Ballot, Signs the Envelope, and Returns the Ballot
+<h3>The Voter Fills Out the Ballot, Signs the Envelope, and Returns the Ballot</h3>
 
 The absentee ballot provides the options by contest. The voter makes their selections and stuffs the ballot into the envelope. Putting the stuffed ballot envelope in the mail, drop box, or dropped off at the election office is casting their ballot. This is similar to casting your ballot in-person through an electronic tablet or where you are dropping a completed ballot into a ballot drop box at a polling place.
 
@@ -225,8 +165,7 @@ There is an additional group that is permitted to deliver sealed absentee ballot
 
 A majority of states require the absentee ballot to be in the local county elections office by the close of Election Day. A few states allow for a US Post Office postmarked absentee ballot by close of Election Day. 
 
-
-### The Election Office Matches the Signature and Scans the Ballot
+<h3>The Election Office Matches the Signature and Scans the Ballot</h3>
 
 15 states do not allow the processing of ballot envelopes before election day. A few require signature verification upon receipt. While most states have some variation of days before the election to begin signature verification. [^32]
 
@@ -236,8 +175,7 @@ After the ballot envelope registered voter signature has been verified, the ball
 
 Using a ballot scanner, the absentee ballot is scanned producing a digital file. While the absentee ballot is scanned it is also likely marked (printed) with a voter ID. The voter ID is generally not connected with the voter rather it is a generic number. The ballot type, time, date, voter ID, and scanner ID are recorded along with the digital file.
 
-
-### The Ballots Get Counted
+<h3>The Ballots Get Counted</h3>
 
 The Election Administration Voting Survey (EAVS) tracks the use of 6 types of voting equipment in addition to the hand-counting of ballots. Nationally, jurisdictions reported using 334,422 pieces of equipment in the 2018 general elections. Most jurisdictions and states used more than one type of equipment. The most commonly used equipment types were scanners (used in 96.3 percent of states) and BMDs (79.6 percent). Hand counting of ballots was used in 44.4 percent of states.[^33] 
 
@@ -247,8 +185,7 @@ Even with the automation provided by the scanners and software tabulation, the t
 
 The tabulation process is double checked by a variety of processes. One of the tabulation checks is a pre-check for accuracy and quality before the election by feeding a known set of ballots into the tabulator. The vote selection totals equal the expected result or else diagnostics and adjustments are required to correct the system. Another check involves printing a “zero tape” that verifies the tabulator's counters are all at zero. In the case of software failure, the backup is generally a manual count of the ballots using poll workers.
 
-
-### Regular Monitoring to Avoid Fraud
+<h3>Regular Monitoring to Avoid Fraud</h3>
 
 In parallel, as the cast vote records are tallied, there is regular monitoring to avoid fraud. 
 
@@ -270,8 +207,7 @@ The absentee ballot is saved in a paper archive. The paper archive must be saved
 
 After the tally has been completed, the paper archive can be counted to verify the ballot counts match the archived ballots. If after an oversight review or a RLA finds a discrepancy, then a partial or full recount is performed. The recount can be tallied by the tabulator or be done manually by hand. 
 
-
-### When Everything Has Been Double Checked, the Election Is Reported
+<h3>When Everything Has Been Double Checked, the Election Is Reported</h3>
 
 Most counties provide unofficial tallies of elections starting immediately after election day has closed. Generally these results are shared through an official county elections website, but press releases are not uncommon if there are significant delays in the official results. It is becoming more common that larger election offices work with marketing firms to manage expectations and likely delays in reporting due to absentee ballot tabulation.
 
@@ -279,25 +215,21 @@ The quantity and quality of the elections reporting varies from county to county
 
 After the final tally has been completed and all ballot adjudications and RLAs have been completed, then the election can be certified complete. The certified election can then be transmitted to the state’s chief elections officer. The transmission can be hand delivered by a paper record, by facsimile, or by transmission of a digital file. 
 
-
-# Discussion of Key Benefits of and Concerns about Absentee Voting 
+<h1>Discussion of Key Benefits of and Concerns about Absentee Voting </h1>
 
 The ongoing expansion of vote by mail options demonstrates the growing recognition that absentee balloting is an important aspect of modern American voting.There are over 8,000 state and local election officials who are dedicated to administering elections without incident, and the implementation of these options demonstrates broad bipartisan support at the local level. But a contentious partisan debate at the highest levels of national politics persists about the benefits and risks of voting by mail. 
 
 The Lincoln Network reviewed relevant literature and available evidence about the pros and cons of absentee voting. We reviewed formal commentary and research pieces from political and apolitical organizations, security professionals, elected officials, pieces of legislation, and most importantly, election officials. We are soliciting feedback from election practitioners and spectators to categorize and quantify all concerns, hopes, and suggested security improvements in regards to expanding absentee voting. The following discussion presents the benefits of and concerns about voting by mail.
 
+<h2>Benefits of Absentee Voting </h2>
 
-## Benefits of Absentee Voting 
-
-
-### Voter Convenience
+<h3>Voter Convenience</h3>
 
 Absentee balloting provides voters with more convenience and flexibility during the process. Voting by absentee ballot allows voters to research candidates and issues on the ballot in their own time. It also eliminates the challenges many working class voters face with getting to the polls in person--such as polling hours that conflict with working hours, traffic, and long lines. 
 
 Surveys in several predominantly vote by mail states have shown that people appreciate this convenience. For example, 87 percent of Oregon’s voters approve of the state’s vote by mail system.[^37] [^38] In 2013, Colorado’s Governor implemented wider vote by mail access and expanded the timelines for ID-voter registration measures.[^39] In 2016, [The Pew Charitable Trusts](http://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2016/03/colorado-voting-reforms-early-results) ran a research project 2016 to see how the process went; It showed voters were 95% satisfied with their mail-in voting experience--right on par with 96% of in-person voters.[^40] 
 
-
-### Saving Money
+<h3>Saving Money</h3>
 
 Mailing ballots is less complicated and less expensive compared to the massive logistical undertaking of finding, staffing, equipping, testing, sanitizing and maintaining hundreds of voting locations across the state. Especially in the midst of the COVID-10 pandemic, several election officials compared it to staffing a small army.[^41]
 
@@ -305,8 +237,7 @@ Colorado found costs decreased an average of 40% in five election administration
 
 Utah, Colorado, and Oregon tout similar cost efficiencies with expansion to their absentee voting. [^44] Since fewer polling places and voting centers are needed, election officials save time and resources when voters use absentee ballots. Staff does not need to train volunteers every voting cycle, and outdated equipment is less of an issue. In regards to shifting of postage costs, some states include a prepaid envelope in the absentee ballot, some states require citizens to pay for postage (USPS is required to prioritize all ballots even if with insufficient postage), and in most states voters can submit their ballots through private mail service if they choose. [^45]
 
-
-### Increasing Voter Turnout
+<h3>Increasing Voter Turnout</h3>
 
 Due to the convenience of mailed ballots, absentee voting has increased voter turnout. Importantly, turnout increases are across the political spectrum and, therefore, do not appear to benefit a particular political party. 
 
@@ -316,19 +247,13 @@ In Colorado, voter turnout increased from 51.7% to 54.7% after the absentee ball
 
 In 2020, Stanford University’s Democracy and Polarization Lab found similar positive results in their statistical study. Their research shows that universal vote by mail produces a 5% increase in the share of ballots that are mailed in and that voters appreciate the chance to mail in their ballot.[^48] They also note that increased mail-in ballot access raises voter turnout but not in a way that helps either party. Stanford researchers estimated that voting by mail leads to a 0.1% increase of registered Democrats.[^49] 
 
-
-### Protecting Public Health by Allowing Social Distancing During the Pandemic 
+<h3>Protecting Public Health by Allowing Social Distancing During the Pandemic </h3>
 
 During the pandemic, absentee voting allows voters to safely cast their ballot from home without needing to go to a physical polling station. Increasing the number of voters who cast absentee ballots will also improve safety for other voters who choose to vote in person by reducing the number of people at the polling station. This will also reduce the number of poll workers who are required on election day. (According to the Election Assistance Commission, “24 percent of poll workers were 71 or older and another 32 percent were between the ages of 61 and 70,” in 2016.[^50] Individual health risks may prevent many older Americans from volunteering or working at the polls during the pandemic.) If the COVID-19 pandemic persists in November and public health authorities recommend social distancing at that time, absentee ballots will provide significant benefits by minimizing the number of voters who must cast ballots in person on November 3rd.
 
+<h2>Concerns about Absentee Voting</h2>
 
-# 
-
-
-## Concerns about Absentee Voting
-
-
-### Voter Rolls, Administrative Errors, and Voter Ballot Mistakes
+<h3>Voter Rolls, Administrative Errors, and Voter Ballot Mistakes</h3>
 
 Administrative errors are any clerical or logistic human errors that could happen during the printing, mailing, and receiving a portion of the voting process. Voter ballot mistakes are mistakes citizens make when filling out their ballot. 
 
@@ -352,8 +277,8 @@ Incorrect, damaged, and unclear ballots are common voter ballot mistakes. Citize
 
 Logistic concerns arise from election officials’ seemingly minute administrative processes that can have a big impact on voting. For example, in April 2020, Georgia’s Secretary of State had to revise ballot instructions and resend those instructions to voters due to a miscommunication about whether there is supposed to be one or two envelopes in their mail-in ballot.[^56] Washington, DC election officials reported that confirmation of absentee ballot requests ended up in spam folders because emails from the Board of Election were not recognized. 
 
+<h3>Ballot Harvesting  and Voter Fraud</h3>
 
-### Ballot Harvesting  and Voter Fraud
 
 A common concern about widespread absentee balloting and vote by mail is that it will enable ballot harvesting and increase voter fraud. As early as 2006, the Election Assistance Commission warned about these risks in a report on voter fraud and intimidation. The EAC reviewed available literature on fraud and intimidation and found:  
 
@@ -371,9 +296,7 @@ Congressman Davis’s report alleged widespread ballot harvesting used in Califo
 
 Congressman Davis asserts that unlimited ballot harvesting in California “led to the defeat of seven Republican [Congressional] candidates in the California 2018 midterm election.”
 
-Various conservatives, including President Trump,[^66] have also asserted that voter fraud is a systemic, widespread problem. For instance, the Heritage Foundation published a database that cites 1,285 instances of alleged voter fraud in the United States.[^67] However, the Heritage Foundation diluted their argument by including counts of incidents since 1972. Since then, there have been twelve presidential elections where 1,176,786,000 votes were cast.[^68] This means they have only found 0.000001% examples of ‘voter fraud’. Moreover, all their examples are not incidents of fraud, but rather other examples of convictable offenses throughout the voting process. For example, their paper cites 60 instances of wrongful addresses and 71 instances of people giving various levels of prohibited assistance to voters.[^69] Or a myriad of administrative issues like the 2008 case in McIntosh County, Georgia a man was found guilty of an administrative violation of registering to vote under an address at which he did not live.[^70]
-
-			
+Various conservatives, including President Trump,[^66] have also asserted that voter fraud is a systemic, widespread problem. For instance, the Heritage Foundation published a database that cites 1,285 instances of alleged voter fraud in the United States.[^67] However, the Heritage Foundation diluted their argument by including counts of incidents since 1972. Since then, there have been twelve presidential elections where 1,176,786,000 votes were cast.[^68] This means they have only found 0.000001% examples of ‘voter fraud’. Moreover, all their examples are not incidents of fraud, but rather other examples of convictable offenses throughout the voting process. For example, their paper cites 60 instances of wrongful addresses and 71 instances of people giving various levels of prohibited assistance to voters.[^69] Or a myriad of administrative issues like the 2008 case in McIntosh County, Georgia a man was found guilty of an administrative violation of registering to vote under an address at which he did not live.[^70]	
 
 Other organizations contend that fraud is rare and argue that Heritage’s database significantly exaggerates the problem. The Brennan Center for Justice reviewed Heritage’s database and concluded: “nothing in the database to confirm claims of rampant voter fraud.”[^71] 
 
@@ -387,8 +310,7 @@ Poor quality registration rolls causing inactive voters to receive ballots throu
 
 Bad actors do not have to get direct access to absentee ballots to commit election crimes. The early twentieth century is full of stories of corrupt elections through voter coercion. It is the reason for ballot secrecy laws**. **Disinterested voters or paid voters can and do hand over their ballots to dishonest third parties.[^80] Voters can be threatened or persuaded to hand their ballot over.[^81] Voter coercion will likely continue to be a problem and policymakers should take the necessary steps to combat it.
 
-
-### Major Changes Take Time to Implement
+<h3>Major Changes Take Time to Implement</h3>
 
 Election officials warn states that changing voting procedures need to put extra effort into communications and operations. This includes massive messaging, logistical accommodations, an increased focus on ensuring that expanded absentee voting solutions are fool-proof. Experienced election veterans warn against making too many changes due to lack of time. Major expansions of a vote by mail systems require at least two years to prepare, vet, and execute.[^82]
 
@@ -398,8 +320,7 @@ Systemwide transitions before November such as enabling universal absentee ballo
 
 All of these problems outlined here are from well-intended, dedicated election officials. We are not pointing these failures in election system upgrades to embarrass or disparage. Instead, these few examples are to highlight the dangers of introducing changes to complex systems. Modern election systems are incredibly difficult systems to understand and manage. Non-traditional approaches will be required. 
 
-
-### Inaccessibility for Persons with Disabilities
+<h3>Inaccessibility for Persons with Disabilities</h3>
 
 The 2014 Presidential Commission on Election Administration reported that administrative error and mistakes are a key drawback of absentee balloting: “absentee ballots are usually paper ballots, and are therefore not accessible to many persons with disabilities, such as those with visual or dexterity challenges.[^89] 
 
@@ -410,8 +331,8 @@ The National Federation of the Blind stresses the rights of blind Americans unde
 
 The National Disability Rights Network supports the expansion of vote by mail options but urges that the disabled community’s rights be maintained: “election administrators to enhance their options for remote voting while maintaining in-person voting systems to the greatest extent possible.”[^91]
 
+<h3>Delay in Election Results</h3>
 
-### Delay in Election Results
 
 Most current absentee provisions allow voters to submit their ballots by mail as long as they are postmarked by election day. If states dramatically increase their amount of vote by mail ballots under these provisions, critics worry election results will be excessively delayed. 
 
@@ -421,8 +342,7 @@ Arizona election officials made a statement on the contrary saying in-person, El
 
 Given each state has different timelines and protocols, delays may or may not occur. Delays in election results for the sake of accuracy are normal in American elections, but suspected delays will have to be communicated across the board to preserve faith in the system. 
 
-
-### Weighing the Benefits and Concerns
+<h3>Weighing the Benefits and Concerns</h3>
 
 Expanding absentee balloting and vote by mail offers tradeoffs for voters and the United States. On the one hand, increasing access to absentee ballots offers more convenience for voters, reduces costs for states and local governments administering elections, and increases voter turnout. Importantly, absentee voting provides a safe option during the pandemic when individual and public health concerns may require social distancing and prevent in-person voting for certain voters. 
 
@@ -435,30 +355,19 @@ Academic researchers discussed the tradeoff between accessibility and integrity 
 
 Policymakers and state and local election officials must recognize these benefits and risks, and ensure that expanded absentee voting addresses potential problems. The COVID-19 pandemic has created challenges and a public health response that is unprecedented in modern American life. Looking to November, planning to provide expanded absentee balloting and vote by mail options is a sensible way to prepare to hold the election during the pandemic. Moreover, 46 states currently offer universal vote by mail for the 2020 election. 
 
-The question is not whether or not widespread vote by mail will occur during the 2020 election. But instead, whether widespread absentee balloting will occur in a manner that addresses the known risks, including minimizing administrative and voter problems and preventing fraud and ballot harvesting. The following section offers solutions and recommendations for policymakers to address these challenges. 
+The question is not whether or not widespread vote by mail will occur during the 2020 election. But instead, whether widespread absentee balloting will occur in a manner that addresses the known risks, including minimizing administrative and voter problems and preventing fraud and ballot harvesting. The following section offers solutions and recommendations for policymakers to address these challenges.
 
+<h1>Solutions</h1>
 
-# 
-
-
-# Solutions
-
-
-## Expand Vote by Mail but Address Integrity Concerns
+<h2>Expand Vote by Mail but Address Integrity Concerns</h2>
 
 National and state policymakers should protect the integrity of the democratic process by expanding access to vote by mail while establishing protections to address administrative problems and enhancing laws to prevent ballot harvesting and fraud.
 
-_ _
-
 State and local election officials responsible for administering the nation’s elections should move forward with providing expanded access to absentee balloting and vote by mail to provide all voters with a safe and convenient way to vote during the pandemic. Available evidence suggests that expanding access to absentee voting is popular, convenient, and will increase voter turnout without favoring either political party. However, state and local policymakers should take steps to address potential problems with expanding absentee voting. 
-
- 
 
 Increasing the number of absentee and vote by mail ballots will create more manual work. It is likely that many of the election offices do not have automation available to process absentee ballots or their envelopes. More oversight by the political parties and the general public is likely, which will cause more delays. Large numbers of ballots requiring adjudication such as mismarked absentee ballots and provisional ballots will cause delays. Election offices will need to radically staff up to meet the increased demand. Additionally, every election office should plan for likely failure scenarios like broken scanners due to higher volumes and new staff not fully understanding processes. 
 
 Even if an election office has little to no changes in their 2020 election plans, communication with the voting public is critical. Election officials should work with a public relations and marketing firm in order to communicate with the media and voters. The public needs to understand what to expect from their ballots and the coming election.
-
- 
 
 All voting territories should establish laws to prevent ballot harvesting by adding stricter language about ballot returning methods. At the moment, thirty-seven states and Washington, D.C. have language that allow absentee ballots to be returned by a designated person. There are thirteen states who don’t address this issue at all (Delaware, Hawaii, Idaho, Mississippi, New York, Oklahoma, Rhode Island, Tennessee, Utah, Vermont, Washington, Wisconsin and Wyoming.)[^94] [^95] We recommend the Board of Elections or Secretary of State for the final 13 states adopt language that could reduce the legal opportunity for ballot harvesting. That language should provide voters with the option to return the ballot themselves, allow for US Post Office or private mail couriers to pick up and deliver the ballot, restrict the number of designated people allowed to return one’s ballot, and make clear the penalties for anyone who fraudulently collects and returns ballots from another person. 
 
@@ -466,8 +375,7 @@ Moreover, state and county election officials should use best practices for ensu
 
 These measures should be tailored by the state to ensure accessibility and can be implemented before the November 2020 elections. As states consider this option, their choices should be widely communicated early and often to ensure voter suppression does not happen. 
 
-
-## Implement Ballot Tracking Measures
+<h2>Implement Ballot Tracking Measures</h2>
 
 States and local governments should improve voter confidence in absentee balloting by providing voters a way to track their absentee ballot and a receipt to prove that an absentee ballot was received and counted
 
@@ -475,20 +383,15 @@ States and local governments should improve voter confidence in absentee balloti
 
 This potential solution is broadly consistent with the following recommendation of the bipartisan Presidential Commission on Election Administration in 2014: 
 
- 
-
-
     Therefore, while endorsing the expansion of no-excuse absentee voting, the Commission also encourages the increased use of safeguards. One such safeguard is online tracking of absentee ballots. County election websites should enable voters to verify that their absentee ballot request was received, that their ballot was mailed out, and then later that it was received and counted (and if not counted, the reason why). Barcoding technology has empowered jurisdictions to automate this process and to empower voters to check that their votes have not been “lost in the system.” Moreover, jurisdictions that recognize a problem with the absentee ballot or application of a voter should follow up with that voter if sufficient time exists to cure any technical defects that might prevent the voter’s vote from being counted.
 
  
 
 In addition to tracking the absentee ballot, states could consider implementing technology that would allow voters to know their vote has been counted. Designing ballots in a manner that provides voters with an electronic receipt (such as a “QR code”) may be an option. This process, combined with other checks-and-balances, such as the creation of a state election integrity ombudsman that would work alongside the post-election audit team, could establish a proper system. A few states provide an online tool to verify their vote was recorded. Using a QR code would be broadly useful for states that concerned the privacy of the voter’s selections could be compromised. 
 
-## Keep In-Person Voting Open
+<h2>Keep In-Person Voting Open</h2>
 
 State and local governments should maintain and improve in-person voting options and ensure that all voters, particularly individuals with disabilities, can vote independently and privately while addressing the practical challenges of in-person voting during the COVID-19 pandemic.
-
- 
 
 For states that have expanded or are expanding their absentee voting options, most are still keeping in-person voting as an option during COVID-19. Many bipartisan voting rights groups have argued that not offering in-person voting infringes on the right to vote as it takes away voting options for those that need assistance or have non-permanent mailing addresses. 
 
@@ -508,17 +411,14 @@ An improvement would be to use geo-fencing to let voters use a mobile poll regis
 
 Additionally, providing the voter with a mobile sample ballot application would allow the voter’s selections to be documented before arriving at the polls. Using a QR code to encode the data, the voter could then use a scanner in the voting booth to load the voter’s selections into the ballot. The voter then would only need to review their ballot and accept to cast their ballot.
 
+<h2>States and Local Governments Should Use Available Funding and Report to Congress on Any Remaining Gaps</h2>
 
-## States and Local Governments Should Use Available Funding and Report to Congress on Any Remaining Gaps
 
 States and local governments should use previously authorized and appropriated federal funding (and other available federal resources) to administer and secure the 2020 election. National policymakers should ease burdens on state and local governments and improve oversight and transparency to clarify what additional resources are needed to modernize and secure U.S. election systems moving forward.
 
 Since 2018, the U.S. Congress has provided $1.2 billion in funding to support state and local election administration through the Help America Vote Act. (See Table 02.) The U.S. Election Assistance Commission awards this funding to states.
 
 **Table 2 — HAVA Funding Since FY2018 **[^96]** **[^97]** **[^98]
-
- 
-
 
 <table>
   <tr>
@@ -551,7 +451,11 @@ As of September 2019, of the 2018 HAVA funds distributed, the states collectivel
 
 Through HAVA, the EAC has released an additional $825 million in allocations for all the states for FY 2020 and CARES Act funding. This money allows states to use those funds to 1) update voter equipment to record digital voter intent 2) replace voter equipment with a voter-verified paper record such as mail-in ballots 3) implement post-election audits systems such as RLAs that provide high confidence. 
 
+ 
+
 These funds can also be used to address COVID-19 related expenses including increased absentee ballot printing (not including the normal amount a state would have printed), increased labor costs, equipment to process absentee ballots, laptops for election workers, space leasing for new polling locations, communique on new election tech to the public, not including Get Out The Vote (GOTV) work.
+
+ 
 
 Some national lawmakers[^100] and several nonpartisan organizations have recommended additional funding to support modernizing state and local election infrastructure, improving cybersecurity, and administering the election during the pandemic.[^101] However, it is unclear that additional funding is needed at this time, particularly since many states have not yet spent all of the federal dollars provided since 2018. 
 
@@ -561,9 +465,12 @@ For example, when additional funds are requested either through the US Congress,
 
 State and local governments should be able to promptly report to Congress on what funds have been spent at least annual quarter by quarter, how unobligated funding will be used, and identify any remaining gaps in funding that are needed to administer the election during 2020. Absent convincing evidence that all existing funding has been spent and that new dollars are needed, Congress should not appropriate new HAVA funding for 2020. 
 
+ 
+
 In addition to available HAVA funding, state and local governments should use other available resources to secure and administer the election. For example, states and local governments could use some of the billions in unspent homeland security grants awarded by DHS and the Federal Emergency Management Agency since 2015.[^102] (Cybersecurity is listed as one of the FEMA’s “[core capabilities](https://www.fema.gov/media-library-data/1575301594630-07bf5dcfaef6482c8597643cc967d44d/CCDS_Protection_508.pdf)” for homeland security and FEMA’s grant manual [allows](https://www.fema.gov/media-library-data/1555010612902-389f8b3351d06d759b01df2a8a851284/FEMA_PreparednessGrantsManual_Final_508.pdf) cybersecurity costs a way to spend these grant dollars.) 
 
-## Maintain Trustworthy Voter Rolls
+<h2>Maintain Trustworthy Voter Rolls</h2>
+
 
 States Should Reduce the Chances of Ballot Harvesting and Wrongly Mailed Ballots by Updating Their Voter Rolls.
 
@@ -573,7 +480,8 @@ The work that the [Election Registration Information Center (ERIC)](https://eric
 
 Additionally, some believe the federal government should help in these efforts by making the Department of Homeland Security and other databases available to states.[^103] [^104] With the quality of the voter registration data vastly improved, then the risks involved with no excuse absentee voter registration and online absentee ballot requests will be greatly minimized. [^105]
 
-## Inclusive Voter Identification Measures
+<h2>Inclusive Voter Identification Measures</h2>
+
 
 States Should Support and Widely Broadcast, Inclusive Voter Identification Measures.
 
@@ -585,20 +493,19 @@ With this security consideration, states need to ensure inclusive Voter ID rules
 
 While there are debates on ensuring inclusive rules, in general, identity verification measures are widely supported on a bipartisan basis.[^113] [^114] As an example, improving voter identification measures include modernizing signature verifications. As a biometric indicator, signature verification is a popular way for states to confirm voter identity. However, the burden is on the majority of the election officials to manually match signatures by eyesight.[^115] Some states like Oregon have invested in technology to better match signatures to address impersonation concerns.[^116] States have previously reported moving slowly on investing in signature technology[^117] but should reconsider given the new availability of election security funds. 
 
-# Conclusion
+<h1>About the Authors</h1>
 
-History shows us that we can hold an election during even the most difficult times. The United States held elections in 1864 during the height of the Civil War and in 1944 when the Greatest Generation was fighting World War II. It may be our responsibility to hold a presidential election during a pandemic. The time to prepare is now.
-
-The summer of 2020 is a crucial time for augmentations to the November 2020 elections. Planning, funding, and purchasing changes to the complex elections systems require more time to be successful. As of the spring, the state of absentee voting in the United States is generally healthy. In order to keep the overall election systems healthy, we need to make improvements that do no harm. 
-
-# About the Authors
+![sean-roberts image](../images/sean-roberts-150x150.jpeg "sean-roberts image")
 
 Sean Roberts is chief technologist with Lincoln Network’s policy team. He is based in the San Francisco Bay Area with experience from places like Stanford, Yahoo, EDS, ADP, and Electronic Arts. He is a founding member of the OpenStack Foundation, a global organization that provides software tools for building and managing cloud computing platforms for public and private clouds.
 
+![alexiaa-jordan- image](../images/alexiaa-jordan-150x150.jpeg "alexiaa-jordan- image")
+
 Alexiaa Jordan is a policy analyst for innovation, cyber, and national security policy at Lincoln Network. Previously, she worked with the international strategic consulting firm RiceHadleyGatesManuel, LLC. Prior to that she served as chief of staff for a member of the Illinois House of Representatives. She holds a master’s degree from Johns Hopkins University in international economics and security studies, as well as a bachelor’s degree from the University of Illinois at Urbana Champaign in molecular and cellular biology. She is also a Shawn Brimley Next Generation National Security Fellow at CNAS.
 
+
 <!-- Footnotes themselves at the bottom. -->
-## Footnotes
+# Foototes
 
 [^1]:
      “EAVS Deep Dive: Poll Workers and Polling Places | U.S. Election Assistance Commission.” n.d. Www.Eac.Gov. Accessed June 18, 2020. https://www.eac.gov/documents/2017/11/15/eavs-deep-dive-poll-workers-and-polling-places
