@@ -1,5 +1,7 @@
 # What is Lincoln Network Election Work
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4ad0f80b-43c9-4391-9cda-e19100cae364/deploy-status)](https://app.netlify.com/sites/gracious-perlman-dec492/deploys)
+
 The Lincoln Network’s mission is to connect Silicon Valley and other technology hubs with national policymakers to create a freer and more secure future. We believe in a world of free markets and free people, and that fostering a robust but responsible innovation ecosystem is crucial to creating a better, freer, and more abundant future. Our cyber and national security team focuses on identifying ways that technology and innovation can address major challenges facing the United States and the world. 
 
 In 2020, one of the most significant challenges facing the nation is to hold a democratic election during a pandemic, at a time of heightened international competition including growing cybersecurity threats.
