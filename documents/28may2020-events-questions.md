@@ -1,3 +1,4 @@
+# 28 May 2020 event questions
 1. The federal government established the Help America Vote Act (HAVA) in 2002 to improve Federal office elections administration, technology and security. Over $1B has been allocated for state HAVA grants since 2018 alone. The Brennan Center recently put out a paper highlighting that pandemic election costs require another $2B to be allocated. 
    1. Questions to Paul, with group follow up: How optimistic are you about the November election with the existing funding? 
    1. Is there enough focus on fraud avoidance in election systems and the grants that are funding them?
@@ -40,3 +41,6 @@
    1. Marcia Robiou - I am curious where the panelists stand on prosecution of voter fraud cases. States appear to have different approaches. Some prosecute each violation of the election code to the fullest extent of the law and other states take a more lax approach. What’s the best approach and you can point to specific states that are doing it well or not well?
    1. Chris Faulkner - Considering the average age of the one day employee/volunteers who run polling sites…do you think we will be able to have enough staff at all of our current voting locations? If not what should we do?
    1. Marcia Robiou - How do panelists respond to the concern that this focus on voter fraud in vote-by-mail programs is missing the mark and the real election integrity concern is disinformation campaigns or interference (domestic or foreign)?
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg1MzA1ODc2OF19
+-->
