@@ -1,13 +1,6 @@
 ## 28 May 2020 event questions
 
-1. Microsoft has been leading the development of an open source back end encryption project to secure the vote. Most recently, this ElectionGuard project has successfully in Wisconsin run a local election primary with the capability of a voter to verify their vote while keeping their ballot contents secret.
-   1. Question to Ginny, with group follow up:
-   1. Do we have parallels to absentee or vote by mail implementations? 
-1. It’s been a common concern that absentee voting benefits one political party over another. Oregon has been running statewide vote by mail elections for over two decades. Recent research from Stanford is disputing the bias claim. 
-   1. Question to Stan, with group follow up:
-   1. Is the absentee bias claim overblown or is there more to understand from examples like Oregon?
-1. Is fraud a bigger problem in Oregon than states with more restrictive absentee registration requirements?
-   1. Metro areas usually have more funds for scanners that can do fast signature matching while rural areas are matching by eyeball and hand. Even Colorado has big differences between different counties. Can the more experienced counties in the short term help the rural counties use some of the latest round of grant money for solutions like this? Does signature verification technology play an outsized role in the metro versus rural elections capabilities to detect fraud in Oregon?
+
 1. It seems to be human nature that when an important task takes longer than we expect or gives us a surprising result, we assume the worst. 
    1. Slow election reporting means fraud or does it? For example, risk limiting audits can delay election results, but improves the quality of the election results. Are the election reporting delays acceptable for oversight?
 1. Commercial companies run complex networks of computer systems. Election systems do not have the same confidence and track record as the commercial systems.
@@ -29,6 +22,6 @@
    1. Chris Faulkner - Considering the average age of the one day employee/volunteers who run polling sites…do you think we will be able to have enough staff at all of our current voting locations? If not what should we do?
    1. Marcia Robiou - How do panelists respond to the concern that this focus on voter fraud in vote-by-mail programs is missing the mark and the real election integrity concern is disinformation campaigns or interference (domestic or foreign)?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjM4ODIzMSw2NTgzMzI2MDMsNTI0Nj
-U2OV19
+eyJoaXN0b3J5IjpbODE3MTIzNzE4LC04NTIzODgyMzEsNjU4Mz
+MyNjAzLDUyNDY1NjldfQ==
 -->
