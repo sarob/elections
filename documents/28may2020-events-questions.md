@@ -1,10 +1,5 @@
 ## 28 May 2020 event questions
 
-1. The Election Assistance Commission that oversees the HAVA grants has guidelines and gates for how and when funds are used by the states. The HAVA guidelines have some vagueness to them. There is a stated desire to provide the states flexibility in implementation. 
-   1. Questions to the group:
-   1. Are the Secretaries of State distributing the funds as intended?
-   1. Are the funds being distributed in a timely manner to the local election justidictions? 
-   1. Does the case for more election funds require more regulation and oversight than what exists today, e.g. March 2020 HR 6379 and May 2020 HR 6800?
 1. Microsoft has been leading the development of an open source back end encryption project to secure the vote. Most recently, this ElectionGuard project has successfully in Wisconsin run a local election primary with the capability of a voter to verify their vote while keeping their ballot contents secret.
    1. Question to Ginny, with group follow up:
    1. Do we have parallels to absentee or vote by mail implementations? 
@@ -34,5 +29,6 @@
    1. Chris Faulkner - Considering the average age of the one day employee/volunteers who run polling sites…do you think we will be able to have enough staff at all of our current voting locations? If not what should we do?
    1. Marcia Robiou - How do panelists respond to the concern that this focus on voter fraud in vote-by-mail programs is missing the mark and the real election integrity concern is disinformation campaigns or interference (domestic or foreign)?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MzMyNjAzLDUyNDY1NjldfQ==
+eyJoaXN0b3J5IjpbLTg1MjM4ODIzMSw2NTgzMzI2MDMsNTI0Nj
+U2OV19
 -->
